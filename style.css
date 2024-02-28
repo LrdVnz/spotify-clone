@@ -4,10 +4,7 @@
     padding: 0;
 }
 
-#cover-container {
-    width: 80px; 
-}
 
-.navbar .fixed-bottom {
-    font-size: 0.75rem!important; 
+.container-fluid.row.fixed-bottom {
+/*     height: 10%; */
 }
